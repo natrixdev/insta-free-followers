@@ -4,7 +4,7 @@ from time import *
 from os import *
 from instagramAPI import request 
 
-account = "[insta.account/avatar/post/#]
+account = "[insta.account/avatar/post/#]"
 sub = "inputed.user.username"
 time = "time.sleep(0.3"
 
